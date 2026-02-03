@@ -1,0 +1,183 @@
+2025-10-28 12:08:48 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/pubsub
+2025-10-28 12:08:48 INFO:     169.254.169.126:19718 - "POST / HTTP/1.1" 404 Not Found
+2025-10-28 12:08:48 INFO:     169.254.169.126:19722 - "POST /pubsub HTTP/1.1" 200 OK
+2025-10-28 12:09:39 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/pubsub
+2025-10-28 12:09:39 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/?__GCP_CloudEventsMode=CUSTOM_PUBSUB_projects%2Ffraud-detection-475817%2Ftopics%2Ftransactions-topic
+2025-10-28 12:09:39 INFO:     169.254.169.126:7330 - "POST /pubsub HTTP/1.1" 200 OK
+2025-10-28 12:09:39 INFO:     169.254.169.126:7344 - "POST / HTTP/1.1" 404 Not Found
+2025-10-28 12:11:38 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/pubsub
+2025-10-28 12:11:39 INFO:     169.254.169.126:29360 - "POST /pubsub HTTP/1.1" 200 OK
+2025-10-28 12:11:39 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/?__GCP_CloudEventsMode=CUSTOM_PUBSUB_projects%2Ffraud-detection-475817%2Ftopics%2Ftransactions-topic
+2025-10-28 12:11:39 INFO:     169.254.169.126:29366 - "POST / HTTP/1.1" 404 Not Found
+2025-10-28 12:13:30 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/pubsub
+2025-10-28 12:13:30 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/?__GCP_CloudEventsMode=CUSTOM_PUBSUB_projects%2Ffraud-detection-475817%2Ftopics%2Ftransactions-topic
+2025-10-28 12:13:31 INFO:     169.254.169.126:22208 - "POST /pubsub HTTP/1.1" 200 OK
+2025-10-28 12:13:31 INFO:     169.254.169.126:22212 - "POST / HTTP/1.1" 404 Not Found
+2025-10-28 12:14:14 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/pubsub
+2025-10-28 12:14:14 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/?__GCP_CloudEventsMode=CUSTOM_PUBSUB_projects%2Ffraud-detection-475817%2Ftopics%2Ftransactions-topic
+2025-10-28 12:14:14 INFO:     169.254.169.126:16806 - "POST /pubsub HTTP/1.1" 200 OK
+2025-10-28 12:14:14 INFO:     169.254.169.126:16816 - "POST / HTTP/1.1" 404 Not Found
+2025-10-28 12:14:58 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/?__GCP_CloudEventsMode=CUSTOM_PUBSUB_projects%2Ffraud-detection-475817%2Ftopics%2Ftransactions-topic
+2025-10-28 12:14:58 INFO:     169.254.169.126:12914 - "POST / HTTP/1.1" 404 Not Found
+2025-10-28 12:14:58 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/pubsub
+2025-10-28 12:14:58 INFO:     169.254.169.126:12916 - "POST /pubsub HTTP/1.1" 200 OK
+2025-10-28 12:15:41 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/?__GCP_CloudEventsMode=CUSTOM_PUBSUB_projects%2Ffraud-detection-475817%2Ftopics%2Ftransactions-topic
+2025-10-28 12:15:41 INFO:     169.254.169.126:16348 - "POST / HTTP/1.1" 404 Not Found
+2025-10-28 12:15:41 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/pubsub
+2025-10-28 12:15:41 INFO:     169.254.169.126:16350 - "POST /pubsub HTTP/1.1" 200 OK
+2025-10-28 12:18:14 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/pubsub
+2025-10-28 12:18:14 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/?__GCP_CloudEventsMode=CUSTOM_PUBSUB_projects%2Ffraud-detection-475817%2Ftopics%2Ftransactions-topic
+2025-10-28 12:18:14 INFO:     169.254.169.126:18354 - "POST /pubsub HTTP/1.1" 200 OK
+2025-10-28 12:18:14 INFO:     169.254.169.126:18366 - "POST / HTTP/1.1" 404 Not Found
+2025-10-28 12:33:22 INFO:     Shutting down
+2025-10-28 12:33:22 INFO:     Waiting for application shutdown.
+2025-10-28 12:33:22 INFO:     Application shutdown complete.
+2025-10-28 12:33:22 INFO:     Finished server process [1]
+2025-10-28 12:37:46 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/pubsub
+2025-10-28 12:37:46 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/?__GCP_CloudEventsMode=CUSTOM_PUBSUB_projects%2Ffraud-detection-475817%2Ftopics%2Ftransactions-topic
+2025-10-28 12:37:50 INFO:     Started server process [1]
+2025-10-28 12:37:50 INFO:     Waiting for application startup.
+2025-10-28 12:37:50 INFO:     Application startup complete.
+2025-10-28 12:37:50 INFO:     Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)
+2025-10-28 12:37:58 INFO:     169.254.169.126:61594 - "POST /pubsub HTTP/1.1" 200 OK
+2025-10-28 12:37:58 INFO:     169.254.169.126:61618 - "POST / HTTP/1.1" 404 Not Found
+2025-10-28 12:43:23 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/pubsub
+2025-10-28 12:43:23 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/?__GCP_CloudEventsMode=CUSTOM_PUBSUB_projects%2Ffraud-detection-475817%2Ftopics%2Ftransactions-topic
+2025-10-28 12:43:24 INFO:     169.254.169.126:20976 - "POST /pubsub HTTP/1.1" 200 OK
+2025-10-28 12:43:24 INFO:     169.254.169.126:20988 - "POST / HTTP/1.1" 404 Not Found
+2025-10-28 12:58:32 INFO:     Shutting down
+2025-10-28 12:58:32 INFO:     Waiting for application shutdown.
+2025-10-28 12:58:32 INFO:     Application shutdown complete.
+2025-10-28 12:58:32 INFO:     Finished server process [1]
+2025-10-28 13:04:30 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/pubsub
+2025-10-28 13:04:30 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/?__GCP_CloudEventsMode=CUSTOM_PUBSUB_projects%2Ffraud-detection-475817%2Ftopics%2Ftransactions-topic
+2025-10-28 13:04:35 INFO:     Started server process [1]
+2025-10-28 13:04:35 INFO:     Waiting for application startup.
+2025-10-28 13:04:35 INFO:     Application startup complete.
+2025-10-28 13:04:35 INFO:     Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)
+2025-10-28 13:04:40 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/pubsub
+2025-10-28 13:04:40 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/?__GCP_CloudEventsMode=CUSTOM_PUBSUB_projects%2Ffraud-detection-475817%2Ftopics%2Ftransactions-topic
+2025-10-28 13:04:42 INFO:     169.254.169.126:55040 - "POST /pubsub HTTP/1.1" 200 OK
+2025-10-28 13:04:42 INFO:     169.254.169.126:55054 - "POST / HTTP/1.1" 404 Not Found
+2025-10-28 13:04:42 INFO:     169.254.169.126:55066 - "POST /pubsub HTTP/1.1" 200 OK
+2025-10-28 13:04:42 INFO:     169.254.169.126:55072 - "POST / HTTP/1.1" 404 Not Found
+2025-10-28 13:13:34 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/pubsub
+2025-10-28 13:13:34 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/?__GCP_CloudEventsMode=CUSTOM_PUBSUB_projects%2Ffraud-detection-475817%2Ftopics%2Ftransactions-topic
+2025-10-28 13:13:36 INFO:     169.254.169.126:36440 - "POST /pubsub HTTP/1.1" 200 OK
+2025-10-28 13:13:36 INFO:     169.254.169.126:36452 - "POST / HTTP/1.1" 404 Not Found
+2025-10-28 13:13:57 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/pubsub
+2025-10-28 13:13:58 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/?__GCP_CloudEventsMode=CUSTOM_PUBSUB_projects%2Ffraud-detection-475817%2Ftopics%2Ftransactions-topic
+2025-10-28 13:13:58 INFO:     169.254.169.126:3284 - "POST /pubsub HTTP/1.1" 200 OK
+2025-10-28 13:13:58 INFO:     169.254.169.126:3296 - "POST / HTTP/1.1" 404 Not Found
+2025-10-28 13:14:18 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/?__GCP_CloudEventsMode=CUSTOM_PUBSUB_projects%2Ffraud-detection-475817%2Ftopics%2Ftransactions-topic
+2025-10-28 13:14:18 INFO:     169.254.169.126:7396 - "POST / HTTP/1.1" 404 Not Found
+2025-10-28 13:14:18 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/pubsub
+2025-10-28 13:14:18 INFO:     169.254.169.126:7404 - "POST /pubsub HTTP/1.1" 200 OK
+2025-10-28 13:29:22 INFO:     Shutting down
+2025-10-28 13:29:22 INFO:     Waiting for application shutdown.
+2025-10-28 13:29:22 INFO:     Application shutdown complete.
+2025-10-28 13:29:22 INFO:     Finished server process [1]
+2025-10-28 15:39:51 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/?__GCP_CloudEventsMode=CUSTOM_PUBSUB_projects%2Ffraud-detection-475817%2Ftopics%2Ftransactions-topic
+2025-10-28 15:39:51 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/pubsub
+2025-10-28 15:39:56 INFO:     Started server process [1]
+2025-10-28 15:39:56 INFO:     Waiting for application startup.
+2025-10-28 15:39:56 INFO:     Application startup complete.
+2025-10-28 15:39:56 INFO:     Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)
+2025-10-28 15:39:56 INFO:     169.254.169.126:62560 - "POST / HTTP/1.1" 404 Not Found
+2025-10-28 15:40:06 INFO:     169.254.169.126:62566 - "POST /pubsub HTTP/1.1" 200 OK
+2025-10-28 15:40:22 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/?__GCP_CloudEventsMode=CUSTOM_PUBSUB_projects%2Ffraud-detection-475817%2Ftopics%2Ftransactions-topic
+2025-10-28 15:40:22 INFO:     169.254.169.126:65300 - "POST / HTTP/1.1" 404 Not Found
+2025-10-28 15:40:22 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/pubsub
+2025-10-28 15:40:23 INFO:     169.254.169.126:65308 - "POST /pubsub HTTP/1.1" 200 OK
+2025-10-28 15:43:10 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/pubsub
+2025-10-28 15:43:11 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/?__GCP_CloudEventsMode=CUSTOM_PUBSUB_projects%2Ffraud-detection-475817%2Ftopics%2Ftransactions-topic
+2025-10-28 15:43:11 INFO:     169.254.169.126:28080 - "POST /pubsub HTTP/1.1" 200 OK
+2025-10-28 15:43:11 INFO:     169.254.169.126:28082 - "POST / HTTP/1.1" 404 Not Found
+2025-10-28 15:43:18 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/pubsub
+2025-10-28 15:43:18 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/?__GCP_CloudEventsMode=CUSTOM_PUBSUB_projects%2Ffraud-detection-475817%2Ftopics%2Ftransactions-topic
+2025-10-28 15:43:18 INFO:     169.254.169.126:31584 - "POST /pubsub HTTP/1.1" 200 OK
+2025-10-28 15:43:18 INFO:     169.254.169.126:31598 - "POST / HTTP/1.1" 404 Not Found
+2025-10-28 15:43:22 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/pubsub
+2025-10-28 15:43:22 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/?__GCP_CloudEventsMode=CUSTOM_PUBSUB_projects%2Ffraud-detection-475817%2Ftopics%2Ftransactions-topic
+2025-10-28 15:43:22 INFO:     169.254.169.126:31610 - "POST /pubsub HTTP/1.1" 200 OK
+2025-10-28 15:43:22 INFO:     169.254.169.126:31622 - "POST / HTTP/1.1" 404 Not Found
+2025-10-28 15:54:47 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/pubsub
+2025-10-28 15:54:47 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/?__GCP_CloudEventsMode=CUSTOM_PUBSUB_projects%2Ffraud-detection-475817%2Ftopics%2Ftransactions-topic
+2025-10-28 15:54:49 INFO:     169.254.169.126:30998 - "POST /pubsub HTTP/1.1" 200 OK
+2025-10-28 15:54:49 INFO:     169.254.169.126:31006 - "POST / HTTP/1.1" 404 Not Found
+2025-10-28 15:54:58 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/pubsub
+2025-10-28 15:54:58 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/?__GCP_CloudEventsMode=CUSTOM_PUBSUB_projects%2Ffraud-detection-475817%2Ftopics%2Ftransactions-topic
+2025-10-28 15:54:59 INFO:     169.254.169.126:31630 - "POST /pubsub HTTP/1.1" 200 OK
+2025-10-28 15:54:59 INFO:     169.254.169.126:31632 - "POST / HTTP/1.1" 404 Not Found
+2025-10-28 15:59:26 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/?__GCP_CloudEventsMode=CUSTOM_PUBSUB_projects%2Ffraud-detection-475817%2Ftopics%2Ftransactions-topic
+2025-10-28 15:59:26 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/pubsub
+2025-10-28 15:59:26 INFO:     169.254.169.126:13760 - "POST / HTTP/1.1" 404 Not Found
+2025-10-28 15:59:28 INFO:     169.254.169.126:13766 - "POST /pubsub HTTP/1.1" 200 OK
+2025-10-28 15:59:30 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/?__GCP_CloudEventsMode=CUSTOM_PUBSUB_projects%2Ffraud-detection-475817%2Ftopics%2Ftransactions-topic
+2025-10-28 15:59:30 INFO:     169.254.169.126:13770 - "POST / HTTP/1.1" 404 Not Found
+2025-10-28 15:59:30 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/pubsub
+2025-10-28 15:59:31 INFO:     169.254.169.126:13782 - "POST /pubsub HTTP/1.1" 200 OK
+2025-10-28 15:59:41 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/pubsub
+2025-10-28 15:59:41 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/?__GCP_CloudEventsMode=CUSTOM_PUBSUB_projects%2Ffraud-detection-475817%2Ftopics%2Ftransactions-topic
+2025-10-28 15:59:41 INFO:     169.254.169.126:20916 - "POST /pubsub HTTP/1.1" 200 OK
+2025-10-28 15:59:41 INFO:     169.254.169.126:20920 - "POST / HTTP/1.1" 404 Not Found
+2025-10-28 16:04:08 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/pubsub
+2025-10-28 16:04:08 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/?__GCP_CloudEventsMode=CUSTOM_PUBSUB_projects%2Ffraud-detection-475817%2Ftopics%2Ftransactions-topic
+2025-10-28 16:04:10 INFO:     169.254.169.126:53006 - "POST /pubsub HTTP/1.1" 200 OK
+2025-10-28 16:04:10 INFO:     169.254.169.126:53020 - "POST / HTTP/1.1" 404 Not Found
+2025-10-28 16:19:12 INFO:     Shutting down
+2025-10-28 16:19:13 INFO:     Waiting for application shutdown.
+2025-10-28 16:19:13 INFO:     Application shutdown complete.
+2025-10-28 16:19:13 INFO:     Finished server process [1]
+2025-10-28 16:34:02 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/pubsub
+2025-10-28 16:34:02 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/?__GCP_CloudEventsMode=CUSTOM_PUBSUB_projects%2Ffraud-detection-475817%2Ftopics%2Ftransactions-topic
+2025-10-28 16:34:07 INFO:     Started server process [1]
+2025-10-28 16:34:07 INFO:     Waiting for application startup.
+2025-10-28 16:34:07 INFO:     Application startup complete.
+2025-10-28 16:34:07 INFO:     Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)
+2025-10-28 16:34:16 INFO:     169.254.169.126:55816 - "POST /pubsub HTTP/1.1" 200 OK
+2025-10-28 16:34:16 INFO:     169.254.169.126:55826 - "POST / HTTP/1.1" 404 Not Found
+2025-10-28 16:49:23 INFO:     Shutting down
+2025-10-28 16:49:23 INFO:     Waiting for application shutdown.
+2025-10-28 16:49:23 INFO:     Application shutdown complete.
+2025-10-28 16:49:23 INFO:     Finished server process [1]
+2025-10-28 17:15:28 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/pubsub
+2025-10-28 17:15:29 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/?__GCP_CloudEventsMode=CUSTOM_PUBSUB_projects%2Ffraud-detection-475817%2Ftopics%2Ftransactions-topic
+2025-10-28 17:15:30 INFO:     Started server process [1]
+2025-10-28 17:15:30 INFO:     Waiting for application startup.
+2025-10-28 17:15:30 INFO:     Application startup complete.
+2025-10-28 17:15:30 INFO:     Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)
+2025-10-28 17:15:34 INFO:     169.254.169.126:5284 - "POST /pubsub HTTP/1.1" 200 OK
+2025-10-28 17:15:34 INFO:     169.254.169.126:5294 - "POST / HTTP/1.1" 404 Not Found
+2025-10-28 17:21:31 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/pubsub
+2025-10-28 17:21:31 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/?__GCP_CloudEventsMode=CUSTOM_PUBSUB_projects%2Ffraud-detection-475817%2Ftopics%2Ftransactions-topic
+2025-10-28 17:21:33 INFO:     169.254.169.126:28814 - "POST /pubsub HTTP/1.1" 200 OK
+2025-10-28 17:21:33 INFO:     169.254.169.126:28820 - "POST / HTTP/1.1" 404 Not Found
+2025-10-28 17:32:45 INFO:     Started server process [1]
+2025-10-28 17:32:45 INFO:     Waiting for application startup.
+2025-10-28 17:32:45 INFO:     Application startup complete.
+2025-10-28 17:32:45 INFO:     Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)
+2025-10-28 17:33:50 INFO:     Shutting down
+2025-10-28 17:33:50 INFO:     Waiting for application shutdown.
+2025-10-28 17:33:50 INFO:     Application shutdown complete.
+2025-10-28 17:33:50 INFO:     Finished server process [1]
+2025-10-28 17:46:28 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/pubsub
+2025-10-28 17:46:29 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/?__GCP_CloudEventsMode=CUSTOM_PUBSUB_projects%2Ffraud-detection-475817%2Ftopics%2Ftransactions-topic
+2025-10-28 17:46:34 INFO:     169.254.169.126:44918 - "POST /pubsub HTTP/1.1" 200 OK
+2025-10-28 17:46:34 INFO:     169.254.169.126:44932 - "POST / HTTP/1.1" 404 Not Found
+2025-10-28 18:01:36 INFO:     Shutting down
+2025-10-28 18:01:36 INFO:     Waiting for application shutdown.
+2025-10-28 18:01:36 INFO:     Application shutdown complete.
+2025-10-28 18:01:36 INFO:     Finished server process [1]
+2025-10-28 18:09:41 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/pubsub
+2025-10-28 18:09:41 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/?__GCP_CloudEventsMode=CUSTOM_PUBSUB_projects%2Ffraud-detection-475817%2Ftopics%2Ftransactions-topic
+2025-10-28 18:09:46 INFO:     Started server process [1]
+2025-10-28 18:09:46 INFO:     Waiting for application startup.
+2025-10-28 18:09:46 INFO:     Application startup complete.
+2025-10-28 18:09:46 INFO:     Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)
+2025-10-28 18:09:56 INFO:     169.254.169.126:10848 - "POST /pubsub HTTP/1.1" 200 OK
+2025-10-28 18:09:56 INFO:     169.254.169.126:10854 - "POST / HTTP/1.1" 404 Not Found
+2025-10-28 18:12:36 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/pubsub
+2025-10-28 18:12:37 INFO:     169.254.169.126:40476 - "POST /pubsub HTTP/1.1" 200 OK
+2025-10-28 18:12:37 POST 200 https://fraud-checker-4bfyjxmruq-uc.a.run.app/?__GCP_CloudEventsMode=CUSTOM_PUBSUB_projects%2Ffraud-detection-475817%2Ftopics%2Ftransactions-topic
+2025-10-28 18:12:37 INFO:     169.254.169.126:40478 - "POST / HTTP/1.1" 404 Not Found

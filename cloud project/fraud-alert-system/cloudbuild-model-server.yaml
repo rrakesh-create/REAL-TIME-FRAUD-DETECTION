@@ -1,0 +1,7 @@
+steps:
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['build', '-f', 'deploy/serving/Dockerfile', '-t', 'us-central1-docker.pkg.dev/fraud-detection-475817/model-repo/fraud-model-server:latest', '.']
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['push', 'us-central1-docker.pkg.dev/fraud-detection-475817/model-repo/fraud-model-server:latest']
+images:
+- 'us-central1-docker.pkg.dev/fraud-detection-475817/model-repo/fraud-model-server:latest'

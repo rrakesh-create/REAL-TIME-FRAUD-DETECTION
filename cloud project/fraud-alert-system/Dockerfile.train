@@ -1,0 +1,11 @@
+FROM python:3.9-slim
+
+WORKDIR /app
+
+COPY fraud-alert-system/requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+COPY fraud-alert-system/fraud_model_train.py .
+COPY fraud-alert-system/models/fraud_model.pkl ./models/
+
+CMD ["python", "fraud_model_train.py"]

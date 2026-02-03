@@ -1,0 +1,2 @@
+functions-framework==3.* # Required by Google Cloud Functions
+twilio==8.* # For sending SMS notifications

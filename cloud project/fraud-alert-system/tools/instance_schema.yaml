@@ -1,0 +1,155 @@
+type: object
+required:
+- Time
+- V1
+- V2
+- V3
+- V4
+- V5
+- V6
+- V7
+- V8
+- V9
+- V10
+- V11
+- V12
+- V13
+- V14
+- V15
+- V16
+- V17
+- V18
+- V19
+- V20
+- V21
+- V22
+- V23
+- V24
+- V25
+- V26
+- V27
+- V28
+- Amount
+properties:
+  Time:
+    type: string
+    nullable: true
+  V1:
+    type: string
+    nullable: true
+  V2:
+    type: string
+    nullable: true
+  V3:
+    type: string
+    nullable: true
+  V4:
+    type: string
+    nullable: true
+  V5:
+    type: string
+    nullable: true
+  V6:
+    type: string
+    nullable: true
+  V7:
+    type: string
+    nullable: true
+  V8:
+    type: string
+    nullable: true
+  V9:
+    type: string
+    nullable: true
+  V10:
+    type: string
+    nullable: true
+  V11:
+    type: string
+    nullable: true
+  V12:
+    type: string
+    nullable: true
+  V13:
+    type: string
+    nullable: true
+  V14:
+    type: string
+    nullable: true
+  V15:
+    type: string
+    nullable: true
+  V16:
+    type: string
+    nullable: true
+  V17:
+    type: string
+    nullable: true
+  V18:
+    type: string
+    nullable: true
+  V19:
+    type: string
+    nullable: true
+  V20:
+    type: string
+    nullable: true
+  V21:
+    type: string
+    nullable: true
+  V22:
+    type: string
+    nullable: true
+  V23:
+    type: string
+    nullable: true
+  V24:
+    type: string
+    nullable: true
+  V25:
+    type: string
+    nullable: true
+  V26:
+    type: string
+    nullable: true
+  V27:
+    type: string
+    nullable: true
+  V28:
+    type: string
+    nullable: true
+  Amount:
+    type: string
+    nullable: true
+nullable: true
+example:
+  Time: '84779.0'
+  V1: '0.0200232859440789'
+  V2: '0.0666641517738418'
+  V3: '0.18130510761629'
+  V4: '-0.0182221037057569'
+  V5: '-0.0529148363603037'
+  V6: '-0.273000170139782'
+  V7: '0.0411018812322155'
+  V8: '0.0228691770496832'
+  V9: '-0.0502339678323284'
+  V10: '-0.0919769737642093'
+  V11: '-0.0311603922823962'
+  V12: '0.141437292992047'
+  V13: '-0.0124067134150893'
+  V14: '0.0513660646947644'
+  V15: '0.0491107254469751'
+  V16: '0.0674560798503623'
+  V17: '-0.0651044355595402'
+  V18: '-0.0027484604142042'
+  V19: '0.004787351442517'
+  V20: '-0.0621131820102593'
+  V21: '-0.0290032975105699'
+  V22: '0.008187050929879'
+  V23: '-0.0109405975902989'
+  V24: '0.0413570227718102'
+  V25: '0.0173466026773371'
+  V26: '-0.0510514669313591'
+  V27: '0.0015463918107033'
+  V28: '0.0113434363917258'
+  Amount: '22.0'

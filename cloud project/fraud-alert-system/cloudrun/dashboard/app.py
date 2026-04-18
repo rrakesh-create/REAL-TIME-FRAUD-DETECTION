@@ -188,7 +188,7 @@ if not fraud_alerts_df.empty:
 
     st.dataframe(
         display_alert_df.style.apply(highlight_alert, axis=1),
-        use_container_width=True
+        width='stretch'
     )
 else:
     st.info("No fraud alerts to display yet.")
@@ -233,7 +233,7 @@ if not all_transactions_df.empty:
 
     st.dataframe(
         tx_df.style.apply(highlight_fraud, axis=1),
-        use_container_width=True
+        width='stretch'
     )
 
     # Real-time status indicator
@@ -272,11 +272,16 @@ except Exception:
 
 if now_ts - st.session_state.last_refresh > interval:
     st.session_state.last_refresh = now_ts
-    # Call experimental_rerun if available; otherwise skip refresh to avoid AttributeError
+    # Use st.rerun if available (modern Streamlit)
     try:
-        rerun = getattr(st, "experimental_rerun", None)
+        rerun = getattr(st, "rerun", None)
         if callable(rerun):
             rerun()
+        else:
+            # Fallback for slightly older versions
+            rerun_exp = getattr(st, "experimental_rerun", None)
+            if callable(rerun_exp):
+                rerun_exp()
     except Exception:
         # If Streamlit doesn't support rerun, continue without crashing
         pass

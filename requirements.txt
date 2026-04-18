@@ -1,0 +1,8 @@
+streamlit
+pandas
+requests
+google-cloud-firestore
+google-cloud-pubsub
+numpy
+scikit-learn
+joblib

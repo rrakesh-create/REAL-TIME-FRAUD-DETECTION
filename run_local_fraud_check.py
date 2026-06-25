@@ -4,7 +4,7 @@ import json
 import base64
 
 from importlib import util as _importlib_util
-_module_path = r"C:\Users\RAKESH\Desktop\cnai project\cloud project\fraud-alert-system\functions\fraud_checker\main.py"
+_module_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "cloud project", "fraud-alert-system", "functions", "fraud_checker", "main.py")
 spec = _importlib_util.spec_from_file_location("fraud_checker_main", _module_path)
 if spec is None or spec.loader is None:
     raise ImportError(f"Could not load fraud_checker module from {_module_path}")

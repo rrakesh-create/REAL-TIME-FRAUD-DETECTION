@@ -188,7 +188,7 @@ if not fraud_alerts_df.empty:
 
     st.dataframe(
         display_alert_df.style.apply(highlight_alert, axis=1),
-        width='stretch'
+        use_container_width=True
     )
 else:
     st.info("No fraud alerts to display yet.")
@@ -233,7 +233,7 @@ if not all_transactions_df.empty:
 
     st.dataframe(
         tx_df.style.apply(highlight_fraud, axis=1),
-        width='stretch'
+        use_container_width=True
     )
 
     # Real-time status indicator
